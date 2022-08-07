@@ -1,0 +1,5 @@
+192
+61 => is Prime
+11 => is Prime
+21
+151 => is Prime
